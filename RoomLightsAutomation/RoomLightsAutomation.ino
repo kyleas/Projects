@@ -22,15 +22,15 @@
 
  /************************* WiFi Access Point *********************************/
 
-#define WLAN_SSID       "BlastOff"
-#define WLAN_PASS       "AA$JJ@KK"
+#define WLAN_SSID       "-------"
+#define WLAN_PASS       "------"
  
 /************************* Adafruit.io Setup *********************************/
 
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
 #define AIO_USERNAME     "kylenotshoe"
-#define AIO_KEY          "aio_UKkr12fe0u9pzTsXtaat16Q2qr9j" 
+#define AIO_KEY          "aio_zLpU30VCcL24NjOM60mEADBCP55Q" 
 
 /************ Global State (you don't need to change this!) ******************/
 
